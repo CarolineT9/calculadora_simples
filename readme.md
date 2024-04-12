@@ -11,7 +11,7 @@ Este projeto consiste no desenvolvimento de uma calculadora simples, que realiza
 
 ### Ferramentas de desenvolvimento
 
-<img src="./img/html.png">
-<img src="./img/css.png">
-<img src="./img/js.png">
-<img src="./img/bootstrap.png">
+<img src="./img/html.png"> #### HTML
+<img src="./img/css.png">  ### CSS
+<img src="./img/js.png">   ### JavaScript
+<img src="./img/bootstrap.png"> ### Bootstrap
