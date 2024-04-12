@@ -7,11 +7,11 @@ Este projeto consiste no desenvolvimento de uma calculadora simples, que realiza
 - Multiplicação
 - Divisão
 
-![Calculadora](./img/calculadora.png)
+<img src="./img/calculadora.png">
 
 ### Ferramentas de desenvolvimento
 
-![HTML](./img/html.png)
-![CSS](./img/css.png)
-![JavaScript](./img/js.png)
-![Bootstrap](./img/bootstrap.png)
+<img src="./img/html.png">
+<img src="./img/css.png">
+<img src="./img/js.png">
+<img src="./img/bootstrap.png">
