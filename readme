@@ -1,0 +1,17 @@
+<h1>Calculadora</h1>
+<p>Esse projeto consiste no desenvolvimento de uma calculadora simples, que realiza as <b>funções básicas</b> de
+    matemática:</p>
+<ul>
+    <li>Subtração</li>
+    <li>Soma</li>
+    <li>Multiplicação</li>
+    <li>Divisão</li>
+</ul>
+<img src="./img/calculadora.png" alt="">
+<h3>Ferramentas de desenvolvimento</h3>
+
+<img src="./img/html.png" alt="">
+<img src="./img/css.png" alt="">
+<img src="./img/js.png" alt="">
+<img src="./img/bootstrap.png" alt="">
+</ul>
