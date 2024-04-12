@@ -15,3 +15,6 @@ Este projeto consiste no desenvolvimento de uma calculadora simples, que realiza
 <img src="./img/css.png">  CSS
 <img src="./img/js.png">   JavaScript
 <img src="./img/bootstrap.png">   Bootstrap
+
+
+LINK: https://carolinet9.github.io/calculadora_simples/
